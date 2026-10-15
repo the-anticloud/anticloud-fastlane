@@ -1,0 +1,16 @@
+{
+ "framework": "06_NIST_CSFW",
+ "title": "NIST Cybersecurity Framework 2.0",
+ "project": "FASTLANE",
+ "basis": [
+  {
+   "check": "11_nist_csf",
+   "status": "PASS",
+   "observed": "framework=NIST Cybersecurity Framework 2.0 controls=8 verifi"
+  }
+ ],
+ "verdict": "CONTROLS EVIDENCED \u2014 all basis checks PASS",
+ "pax_provenance": "Run ID loiskleinner/pax-benchmark-runner v3, 2026-10-02, Kaggle T4 x2 (2x 16GB VRAM), Ubuntu 22.04, Python 3.12. These are PAX L5 Narrow L2 General 27B model-level results \u2014 shared model component, not this project's verdict.",
+ "bench_sha3": "3f668b88393d2f82575e6165abe720bf9ebcb40ebcbbbe2c1b0bf833d3f49fb9",
+ "register_sha3": "28004c014ac123548a7d781dde34f6e309a41ff2fdc393cb2b41497969805706"
+}
